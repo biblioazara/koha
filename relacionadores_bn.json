@@ -1,0 +1,554 @@
+[
+ {
+  "texto": "actor",
+  "codigo": "act"
+ },
+ {
+  "texto": "actor vocal",
+  "codigo": "vac"
+ },
+ {
+  "texto": "actriz",
+  "codigo": "act"
+ },
+ {
+  "texto": "actriz vocal",
+  "codigo": "vac"
+ },
+ {
+  "texto": "adaptador",
+  "codigo": "adp"
+ },
+ {
+  "texto": "adaptadora",
+  "codigo": "adp"
+ },
+ {
+  "texto": "aguafuertista",
+  "codigo": "etr"
+ },
+ {
+  "texto": "animador",
+  "codigo": "anm"
+ },
+ {
+  "texto": "animadora",
+  "codigo": "anm"
+ },
+ {
+  "texto": "antecedente bibliográfico",
+  "codigo": "ant"
+ },
+ {
+  "texto": "armonizador",
+  "codigo": "arrm"
+ },
+ {
+  "texto": "armonizadora",
+  "codigo": "arrm"
+ },
+ {
+  "texto": "arreglista",
+  "codigo": "arrg"
+ },
+ {
+  "texto": "artista",
+  "codigo": "arta"
+ },
+ {
+  "texto": "asesor científico",
+  "codigo": "sad"
+ },
+ {
+  "texto": "asesora científica",
+  "codigo": "sad"
+ },
+ {
+  "texto": "autor",
+  "codigo": "aut"
+ },
+ {
+  "texto": "autor atribuido",
+  "codigo": "dub"
+ },
+ {
+  "texto": "autor audiovisual",
+  "codigo": "vdg"
+ },
+ {
+  "texto": "autor de dedicatoria",
+  "codigo": "dto"
+ },
+ {
+  "texto": "autor de epílogo",
+  "codigo": "aft"
+ },
+ {
+  "texto": "autor de material complementario",
+  "codigo": "wam"
+ },
+ {
+  "texto": "autor de texto adicional",
+  "codigo": "wat"
+ },
+ {
+  "texto": "autor intelectual",
+  "codigo": "ccp"
+ },
+ {
+  "texto": "autora",
+  "codigo": "aut"
+ },
+ {
+  "texto": "autora atribuida",
+  "codigo": "dub"
+ },
+ {
+  "texto": "autora audiovisual",
+  "codigo": "vdg"
+ },
+ {
+  "texto": "autora de dedicatoria",
+  "codigo": "dto"
+ },
+ {
+  "texto": "autora de epílogo",
+  "codigo": "aft"
+ },
+ {
+  "texto": "autora de material complementario",
+  "codigo": "wam"
+ },
+ {
+  "texto": "autora de texto adicional",
+  "codigo": "wat"
+ },
+ {
+  "texto": "autora intelectual",
+  "codigo": "ccp"
+ },
+ {
+  "texto": "calígrafa",
+  "codigo": "cll"
+ },
+ {
+  "texto": "calígrafo",
+  "codigo": "cll"
+ },
+ {
+  "texto": "cantante",
+  "codigo": "sng"
+ },
+ {
+  "texto": "cartógrafa",
+  "codigo": "ctg"
+ },
+ {
+  "texto": "cartógrafo",
+  "codigo": "ctg"
+ },
+ {
+  "texto": "colorista",
+  "codigo": "clr"
+ },
+ {
+  "texto": "compendiador",
+  "codigo": "abr"
+ },
+ {
+  "texto": "compendiadora",
+  "codigo": "abr"
+ },
+ {
+  "texto": "compilador",
+  "codigo": "com"
+ },
+ {
+  "texto": "compiladora",
+  "codigo": "com"
+ },
+ {
+  "texto": "compositor",
+  "codigo": "cmp"
+ },
+ {
+  "texto": "compositora",
+  "codigo": "cmp"
+ },
+ {
+  "texto": "contribuidor",
+  "codigo": "ctb"
+ },
+ {
+  "texto": "contribuidora",
+  "codigo": "ctb"
+ },
+ {
+  "texto": "copista",
+  "codigo": "scr"
+ },
+ {
+  "texto": "curador",
+  "codigo": "cur"
+ },
+ {
+  "texto": "curadora",
+  "codigo": "cur"
+ },
+ {
+  "texto": "dedicataria",
+  "codigo": "dte"
+ },
+ {
+  "texto": "dedicatario",
+  "codigo": "dte"
+ },
+ {
+  "texto": "demandada",
+  "codigo": "dfd"
+ },
+ {
+  "texto": "demandado",
+  "codigo": "dfd"
+ },
+ {
+  "texto": "demandante",
+  "codigo": "ptf"
+ },
+ {
+  "texto": "dibujante",
+  "codigo": "artd"
+ },
+ {
+  "texto": "digitador",
+  "codigo": "mcp"
+ },
+ {
+  "texto": "digitadora",
+  "codigo": "mcp"
+ },
+ {
+  "texto": "director artístico",
+  "codigo": "ard"
+ },
+ {
+  "texto": "director cinematográfico",
+  "codigo": "fmd"
+ },
+ {
+  "texto": "director de arte",
+  "codigo": "adi"
+ },
+ {
+  "texto": "director de colección",
+  "codigo": "pbdc"
+ },
+ {
+  "texto": "director de fotografía",
+  "codigo": "cng"
+ },
+ {
+  "texto": "director de orquesta",
+  "codigo": "cnd"
+ },
+ {
+  "texto": "director de publicación",
+  "codigo": "pbdp"
+ },
+ {
+  "texto": "director de tesis",
+  "codigo": "ths"
+ },
+ {
+  "texto": "directora artística",
+  "codigo": "ard"
+ },
+ {
+  "texto": "directora cinematográfica",
+  "codigo": "fmd"
+ },
+ {
+  "texto": "directora de arte",
+  "codigo": "adi"
+ },
+ {
+  "texto": "directora de colección",
+  "codigo": "pbdc"
+ },
+ {
+  "texto": "directora de fotografía",
+  "codigo": "cng"
+ },
+ {
+  "texto": "directora de orquesta",
+  "codigo": "cnd"
+ },
+ {
+  "texto": "directora de publicación",
+  "codigo": "pbdp"
+ },
+ {
+  "texto": "directora de tesis",
+  "codigo": "ths"
+ },
+ {
+  "texto": "diseñador de exlibris",
+  "codigo": "bpd"
+ },
+ {
+  "texto": "diseñadora de exlibris",
+  "codigo": "bpd"
+ },
+ {
+  "texto": "editor literario",
+  "codigo": "edt"
+ },
+ {
+  "texto": "editora literaria",
+  "codigo": "edt"
+ },
+ {
+  "texto": "encuadernador",
+  "codigo": "bnd"
+ },
+ {
+  "texto": "encuadernadora",
+  "codigo": "bnd"
+ },
+ {
+  "texto": "entidad responsable",
+  "codigo": "isb"
+ },
+ {
+  "texto": "entrevistada",
+  "codigo": "ive"
+ },
+ {
+  "texto": "entrevistado",
+  "codigo": "ive"
+ },
+ {
+  "texto": "entrevistador",
+  "codigo": "ivr"
+ },
+ {
+  "texto": "entrevistadora",
+  "codigo": "ivr"
+ },
+ {
+  "texto": "escenógrafa",
+  "codigo": "std"
+ },
+ {
+  "texto": "escenógrafo",
+  "codigo": "std"
+ },
+ {
+  "texto": "estampador braille",
+  "codigo": "brl"
+ },
+ {
+  "texto": "estampadora braille",
+  "codigo": "brl"
+ },
+ {
+  "texto": "fotógrafa",
+  "codigo": "pht"
+ },
+ {
+  "texto": "fotógrafo",
+  "codigo": "pht"
+ },
+ {
+  "texto": "fundador",
+  "codigo": "pbdf"
+ },
+ {
+  "texto": "fundadora",
+  "codigo": "pbdf"
+ },
+ {
+  "texto": "grabador",
+  "codigo": "egr"
+ },
+ {
+  "texto": "grabadora",
+  "codigo": "egr"
+ },
+ {
+  "texto": "guionista",
+  "codigo": "aus"
+ },
+ {
+  "texto": "ilustrador",
+  "codigo": "illi"
+ },
+ {
+  "texto": "ilustradora",
+  "codigo": "illi"
+ },
+ {
+  "texto": "impresor",
+  "codigo": "prt"
+ },
+ {
+  "texto": "impresora",
+  "codigo": "prt"
+ },
+ {
+  "texto": "ingeniera de grabación",
+  "codigo": "rce"
+ },
+ {
+  "texto": "ingeniero de grabación",
+  "codigo": "rce"
+ },
+ {
+  "texto": "institución otorgante",
+  "codigo": "dgg"
+ },
+ {
+  "texto": "intérprete",
+  "codigo": "prf"
+ },
+ {
+  "texto": "jurisdicción promulgadora",
+  "codigo": "enj"
+ },
+ {
+  "texto": "letrista",
+  "codigo": "lyr"
+ },
+ {
+  "texto": "libretista",
+  "codigo": "lbt"
+ },
+ {
+  "texto": "locutor",
+  "codigo": "cmm"
+ },
+ {
+  "texto": "locutora",
+  "codigo": "cmm"
+ },
+ {
+  "texto": "lugar de fabricación",
+  "codigo": "mfp"
+ },
+ {
+  "texto": "lugar de publicación",
+  "codigo": "pup"
+ },
+ {
+  "texto": "narrador",
+  "codigo": "nrt"
+ },
+ {
+  "texto": "narradora",
+  "codigo": "nrt"
+ },
+ {
+  "texto": "orador",
+  "codigo": "spk"
+ },
+ {
+  "texto": "oradora",
+  "codigo": "spk"
+ },
+ {
+  "texto": "organizador",
+  "codigo": "orm"
+ },
+ {
+  "texto": "organizadora",
+  "codigo": "orm"
+ },
+ {
+  "texto": "productor",
+  "codigo": "pro"
+ },
+ {
+  "texto": "productora",
+  "codigo": "pro"
+ },
+ {
+  "texto": "prologuista",
+  "codigo": "aui"
+ },
+ {
+  "texto": "propietaria anterior",
+  "codigo": "fmo"
+ },
+ {
+  "texto": "propietario anterior",
+  "codigo": "fmo"
+ },
+ {
+  "texto": "realizador",
+  "codigo": "tld"
+ },
+ {
+  "texto": "realizadora",
+  "codigo": "tld"
+ },
+ {
+  "texto": "reportera",
+  "codigo": "rpt"
+ },
+ {
+  "texto": "reportero",
+  "codigo": "rpt"
+ },
+ {
+  "texto": "rotulista",
+  "codigo": "illr"
+ },
+ {
+  "texto": "sede",
+  "codigo": "his"
+ },
+ {
+  "texto": "técnica de grabación",
+  "codigo": "rcd"
+ },
+ {
+  "texto": "técnico de grabación",
+  "codigo": "rcd"
+ },
+ {
+  "texto": "testigo",
+  "codigo": "wit"
+ },
+ {
+  "texto": "tipógrafa",
+  "codigo": "tyg"
+ },
+ {
+  "texto": "tipógrafo",
+  "codigo": "tyg"
+ },
+ {
+  "texto": "topógrafa",
+  "codigo": "srv"
+ },
+ {
+  "texto": "topógrafo",
+  "codigo": "srv"
+ },
+ {
+  "texto": "traductor",
+  "codigo": "trl"
+ },
+ {
+  "texto": "traductora",
+  "codigo": "trl"
+ },
+ {
+  "texto": "transcriptor",
+  "codigo": "trc"
+ },
+ {
+  "texto": "transcriptora",
+  "codigo": "trc"
+ }
+]
