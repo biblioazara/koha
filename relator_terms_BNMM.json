@@ -1,0 +1,798 @@
+[
+  {
+    "codigo": "abr",
+    "terminos_preferidos": [
+      "compendiador (A)",
+      "compendiadora (A)"
+    ],
+    "terminos_no_usados": [
+      "autor(a) del compendio (NA)",
+      "autor(a) del resumen (NA)",
+      "autor(a) del extracto (NA)",
+      "autor(a) de la edición abreviada (NA)"
+    ]
+  },
+  {
+    "codigo": "act",
+    "terminos_preferidos": [
+      "actor (A)",
+      "actriz (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "adi",
+    "terminos_preferidos": [
+      "director de arte (A)",
+      "directora de arte (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "adp",
+    "terminos_preferidos": [
+      "adaptador (A)",
+      "adaptadora (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "vac",
+    "terminos_preferidos": [
+      "actor vocal (A)",
+      "actriz vocal (A)"
+    ],
+    "terminos_no_usados": [
+      "doblajista (NA)",
+      "actor de doblaje (NA)",
+      "actriz de doblaje (NA)"
+    ]
+  },
+  {
+    "codigo": "etr",
+    "terminos_preferidos": [
+      "aguafuertista (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "anm",
+    "terminos_preferidos": [
+      "animador (A)",
+      "animadora (A)",
+      "(cine, TV) (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "arr",
+    "terminos_preferidos": [
+      "armonizador (A)",
+      "armonizadora (A)",
+      "(música) (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "arr",
+    "terminos_preferidos": [
+      "arreglista (A)",
+      "(música) (A)"
+    ],
+    "terminos_no_usados": [
+      "arreglador(a) (NA)"
+    ]
+  },
+  {
+    "codigo": "art",
+    "terminos_preferidos": [
+      "artista (A)"
+    ],
+    "terminos_no_usados": [
+      "guionista (historietas) (NA)",
+      "historietista (NA)"
+    ]
+  },
+  {
+    "codigo": "art",
+    "terminos_preferidos": [
+      "dibujante (A)"
+    ],
+    "terminos_no_usados": [
+      "guionista (historieta) (NA)",
+      "historietista (NA)"
+    ]
+  },
+  {
+    "codigo": "ill",
+    "terminos_preferidos": [
+      "ilustrador (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "ill",
+    "terminos_preferidos": [
+      "rotulista (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "sad",
+    "terminos_preferidos": [
+      "asesor científico (A)",
+      "asesora científica (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "aut",
+    "terminos_preferidos": [
+      "autor (A)",
+      "autora (A)"
+    ],
+    "terminos_no_usados": [
+      "autor(a) del texto (NA)"
+    ]
+  },
+  {
+    "codigo": "com",
+    "terminos_preferidos": [
+      "compilador (A)",
+      "compiladora (A)"
+    ],
+    "terminos_no_usados": [
+      "autor(a) de la selección (NA)",
+      "editor(a) de compilación (NA)",
+      "recopilador(a) (NA)",
+      "seleccionador(a) (NA)",
+      "selector(a) (NA)"
+    ]
+  },
+  {
+    "codigo": "pbd",
+    "terminos_preferidos": [
+      "director de publicación (A)",
+      "directora de publicación (A)",
+      "(recursos continuos) (A)"
+    ],
+    "terminos_no_usados": [
+      "coordinador(a) (NA)",
+      "director(a) (NA)",
+      "director(a) general (NA)",
+      "director(a) periodístico(a) (NA)",
+      "director(a) responsable (NA)",
+      "director(a) titular (NA)",
+      "director(a) editor(a) (NA)",
+      "director(a) administrador(a) (NA)",
+      "director(a) redactor(a) (NA)"
+    ]
+  },
+  {
+    "codigo": "pbd",
+    "terminos_preferidos": [
+      "director de colección (A)",
+      "directora de colección (A)"
+    ],
+    "terminos_no_usados": [
+      "asesor(a) de colección [o serie] (NA)",
+      "colaborador(a) de colección [o serie] (NA)",
+      "compilador(a) de colección [o serie] (NA)",
+      "coordinador(a) de colección [o serie] (NA)",
+      "creador(a) de colección [o serie] (NA)",
+      "cuidador(a) de la colección [o serie] (NA)",
+      "director(a) de serie (NA)",
+      "diseñador(a) de colección [o serie] (NA)",
+      "editor(a) de colección [o serie] (NA)",
+      "persona a cargo de la colección [o serie] (NA)",
+      "propietario(a) de colección [o serie] (NA)",
+      "responsable de colección [o serie] (NA)",
+      "series consultant (NA)"
+    ]
+  },
+  {
+    "codigo": "aui",
+    "terminos_preferidos": [
+      "prologuista (A)"
+    ],
+    "terminos_no_usados": [
+      "autor(a) de la introducción (NA)",
+      "autor(a) del estudio preliminar (NA)",
+      "autor(a) del estudio introductorio (NA)",
+      "autor(a) de (la) nota preliminar (NA)",
+      "autor(a) de (la) advertencia (NA)",
+      "autor(a) de la nota introductoria (NA)",
+      "autor(a) de la noticia preliminar (NA)",
+      "autor(a) de la noticia liminar (NA)",
+      "autor(a) del estudio crítico (NA)",
+      "autor(a) del prefacio (NA)",
+      "autor(a) del proemio (NA)",
+      "autor(a) de (las) palabras previas (NA)",
+      "autor(a) de presentación (NA)"
+    ]
+  },
+  {
+    "codigo": "trl",
+    "terminos_preferidos": [
+      "traductor (A)",
+      "traductora (A)"
+    ],
+    "terminos_no_usados": [
+      "colaborador(a) de traducción (NA)",
+      "director(a) de traducción (NA)",
+      "autor(a) de transliteración (NA)",
+      "autor(a) de la versión en [idioma] (NA)",
+      "supervisor(a) de traducción (NA)",
+      "revisor(a) de la traducción (NA)",
+      "trasliterador(a) (NA)"
+    ]
+  },
+  {
+    "codigo": "trc",
+    "terminos_preferidos": [
+      "transcriptor (A)",
+      "transcriptora (A)"
+    ],
+    "terminos_no_usados": [
+      "autor(a) de la transcripción (NA)",
+      "responsable de la transcripción (NA)",
+      "copista (solo manuscritos) (NA)",
+      "paleógrafo (NA)",
+      "taquígrafo (no judicial) (NA)",
+      "estenógrafo (no judicial) (NA)"
+    ]
+  },
+  {
+    "codigo": "prf",
+    "terminos_preferidos": [
+      "intérprete (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "edt",
+    "terminos_preferidos": [
+      "editor literario (A)",
+      "editora literaria (A)"
+    ],
+    "terminos_no_usados": [
+      "autor(a) del comentario (NA)",
+      "autor(a) del comentario adicional (NA)",
+      "autor(a) de las notas (NA)",
+      "anotador(a) (NA)",
+      "comentador(a) (NA)",
+      "comentarista (NA)",
+      "coordinador(a) (NA)",
+      "director(a) (NA)",
+      "encargado(a) de la edición (NA)",
+      "revisor(a) (NA)",
+      "editor(a) (NA)"
+    ]
+  },
+  {
+    "codigo": "pbl",
+    "terminos_preferidos": [
+      "editorial (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "isb",
+    "terminos_preferidos": [
+      "entidad responsable (A)"
+    ],
+    "terminos_no_usados": [
+      "autor(a) (NA)",
+      "editor(a) (NA)",
+      "editorial (NA)"
+    ]
+  },
+  {
+    "codigo": "prt",
+    "terminos_preferidos": [
+      "impresor (A)",
+      "impresora (A)"
+    ],
+    "terminos_no_usados": [
+      "editor(a) (NA)",
+      "editorial (NA)",
+      "imprenta (NA)"
+    ]
+  },
+  {
+    "codigo": "ive",
+    "terminos_preferidos": [
+      "entrevistada (A)",
+      "entrevistado (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "ivr",
+    "terminos_preferidos": [
+      "entrevistador (A)",
+      "entrevistadora (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "pht",
+    "terminos_preferidos": [
+      "fotógrafa (A)",
+      "fotógrafo (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "wam",
+    "terminos_preferidos": [
+      "autor de material complementario (A)",
+      "autora de material complementario (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "ctb",
+    "terminos_preferidos": [
+      "contribuidor (A)",
+      "contribuidora (A)"
+    ],
+    "terminos_no_usados": [
+      "asesor(a) (NA)",
+      "asistente(a) (NA)",
+      "colaborador(a) (NA)",
+      "jurado (concurso, tesis) (NA)",
+      "asesor(a) editorial ►ver [edt] (NA)",
+      "colaborador(a) de la traducción ►ver [trl] (NA)",
+      "colaborador(a) editorial ►ver [edt] (NA)"
+    ]
+  },
+  {
+    "codigo": "nrt",
+    "terminos_preferidos": [
+      "narrador (A)",
+      "narradora (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "dub",
+    "terminos_preferidos": [
+      "autor atribuido (A)",
+      "autora atribuida (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "vdg",
+    "terminos_preferidos": [
+      "autor audiovisual (A)",
+      "autora audiovisual (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "aft",
+    "terminos_preferidos": [
+      "autor de epílogo (A)",
+      "autora de epílogo (A)"
+    ],
+    "terminos_no_usados": [
+      "autor(a) del posfacio (NA)",
+      "autor(a) del póslogo (NA)",
+      "autor(a) del colofón (NA)",
+      "autor(a) de las palabras finales (NA)",
+      "autor(a) de estudio postliminar (NA)"
+    ]
+  },
+  {
+    "codigo": "wat",
+    "terminos_preferidos": [
+      "autor de texto adicional (A)",
+      "autora de texto adicional (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "ccp",
+    "terminos_preferidos": [
+      "autor intelectual (A)",
+      "autora intelectual (A)"
+    ],
+    "terminos_no_usados": [
+      "autor(a) de la idea (NA)",
+      "autor(a) de la idea original (NA)"
+    ]
+  },
+  {
+    "codigo": "sng",
+    "terminos_preferidos": [
+      "cantante (A)"
+    ],
+    "terminos_no_usados": [
+      "vocalista (NA)"
+    ]
+  },
+  {
+    "codigo": "ctg",
+    "terminos_preferidos": [
+      "cartógrafo (A)",
+      "cartógrafa (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "clr",
+    "terminos_preferidos": [
+      "colorista (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "cmp",
+    "terminos_preferidos": [
+      "compositor (A)",
+      "compositora (A)"
+    ],
+    "terminos_no_usados": [
+      "autor(a) de la música (NA)"
+    ]
+  },
+  {
+    "codigo": "scr",
+    "terminos_preferidos": [
+      "copista (A)",
+      "(manuscritos) (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "lyr",
+    "terminos_preferidos": [
+      "letrista (A)"
+    ],
+    "terminos_no_usados": [
+      "autor(a) de la letra (NA)"
+    ]
+  },
+  {
+    "codigo": "lbt",
+    "terminos_preferidos": [
+      "libretista (A)"
+    ],
+    "terminos_no_usados": [
+      "autor(a) del libreto (NA)"
+    ]
+  },
+  {
+    "codigo": "mfp",
+    "terminos_preferidos": [
+      "lugar de fabricación (A)"
+    ],
+    "terminos_no_usados": [
+      "lugar de impresión (NA)"
+    ]
+  },
+  {
+    "codigo": "pup",
+    "terminos_preferidos": [
+      "lugar de publicación (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "brl",
+    "terminos_preferidos": [
+      "estampador braille (A)",
+      "estampadora braille (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "spk",
+    "terminos_preferidos": [
+      "orador (A)",
+      "oradora (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "cll",
+    "terminos_preferidos": [
+      "calígrafa (A)",
+      "calígrafo (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "rpt",
+    "terminos_preferidos": [
+      "reportera (A)",
+      "reportero (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "pbd",
+    "terminos_preferidos": [
+      "fundador (A)",
+      "fundadora (A)",
+      "(recursos continuos) (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "cnd",
+    "terminos_preferidos": [
+      "director de orquesta (A)",
+      "directora de orquesta (A)",
+      "[coro, ópera, etc.] (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "ths",
+    "terminos_preferidos": [
+      "director de tesis (A)",
+      "directora de tesis (A)"
+    ],
+    "terminos_no_usados": [
+      "co-director(a) de tesis (NA)",
+      "consejero(a) de tesis (NA)",
+      "tutor(a) de tesis (NA)",
+      "director(a) de grado (NA)"
+    ]
+  },
+  {
+    "codigo": "cng",
+    "terminos_preferidos": [
+      "director de fotografía (A)",
+      "directora de fotografía (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "tld",
+    "terminos_preferidos": [
+      "realizador (A)",
+      "realizadora (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "dgg",
+    "terminos_preferidos": [
+      "institución otorgante (A)"
+    ],
+    "terminos_no_usados": [
+      "otorgante (NA)",
+      "entidad otorgante (NA)"
+    ]
+  },
+  {
+    "codigo": "bnd",
+    "terminos_preferidos": [
+      "encuadernador (A)",
+      "encuadernadora (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "mcp",
+    "terminos_preferidos": [
+      "digitador (A)",
+      "digitadora (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "fmd",
+    "terminos_preferidos": [
+      "director cinematográfico (A)",
+      "directora cinematográfica (A)"
+    ],
+    "terminos_no_usados": [
+      "cineasta (NA)"
+    ]
+  },
+  {
+    "codigo": "aus",
+    "terminos_preferidos": [
+      "guionista (A)"
+    ],
+    "terminos_no_usados": [
+      "autor del guion (NA)"
+    ]
+  },
+  {
+    "codigo": "tyg",
+    "terminos_preferidos": [
+      "tipógrafa (A)",
+      "tipógrafo (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "ptf",
+    "terminos_preferidos": [
+      "demandante (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "dfd",
+    "terminos_preferidos": [
+      "demandada (A)",
+      "demandado (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "rce",
+    "terminos_preferidos": [
+      "ingeniera de grabación (A)",
+      "ingeniero de grabación (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "rcd",
+    "terminos_preferidos": [
+      "técnica de grabación (A)",
+      "técnico de grabación (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "orm",
+    "terminos_preferidos": [
+      "organizador (A)",
+      "organizadora (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "his",
+    "terminos_preferidos": [
+      "sede (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "fmo",
+    "terminos_preferidos": [
+      "propietaria anterior (A)",
+      "propietario anterior (A)"
+    ],
+    "terminos_no_usados": [
+      "possedor(a) anterior (NA)",
+      "anterior propietaria(o) (NA)"
+    ]
+  },
+  {
+    "codigo": "srv",
+    "terminos_preferidos": [
+      "topógrafa (A)",
+      "topógrafo (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "wit",
+    "terminos_preferidos": [
+      "testigo (A)"
+    ],
+    "terminos_no_usados": [
+      "deponente (NA)",
+      "testigo ocular (NA)",
+      "testigo presencial (NA)",
+      "testificante (NA)",
+      "deponente (NA)",
+      "declarante (NA)"
+    ]
+  },
+  {
+    "codigo": "cmm",
+    "terminos_preferidos": [
+      "locutor (A)",
+      "locutora (A)"
+    ],
+    "terminos_no_usados": [
+      "comentarista (NA)"
+    ]
+  },
+  {
+    "codigo": "egr",
+    "terminos_preferidos": [
+      "grabador (A)",
+      "grabadora (A)"
+    ],
+    "terminos_no_usados": [
+      "grabador(a) en madera (NA)",
+      "grabador(a) en metal (NA)"
+    ]
+  },
+  {
+    "codigo": "cov",
+    "terminos_preferidos": [
+      "diseñador de cubierta (A)",
+      "[tapa, funda, estuche, caja, contenedor, etc.] (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "cur",
+    "terminos_preferidos": [
+      "curador (A)",
+      "curadora (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "ard",
+    "terminos_preferidos": [
+      "director artístico (A)",
+      "directora artística (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "std",
+    "terminos_preferidos": [
+      "escenógrafo (A)",
+      "escenógrafa (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "enj",
+    "terminos_preferidos": [
+      "jurisdicción promulgadora (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "dte",
+    "terminos_preferidos": [
+      "dedicatario (A)",
+      "dedicataria (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "dto",
+    "terminos_preferidos": [
+      "autor de dedicatoria (A)",
+      "autora de dedicatoria (A)"
+    ],
+    "terminos_no_usados": [
+      "dedicador(a) (NA)"
+    ]
+  },
+  {
+    "codigo": "bpd",
+    "terminos_preferidos": [
+      "diseñador de exlibris (A)",
+      "diseñadora de exlibris (A)"
+    ],
+    "terminos_no_usados": [
+      "dibujante de exlibris (NA)",
+      "artista de exlibris (NA)"
+    ]
+  },
+  {
+    "codigo": "pro",
+    "terminos_preferidos": [
+      "productor (A)",
+      "productora (A)"
+    ],
+    "terminos_no_usados": []
+  },
+  {
+    "codigo": "ant",
+    "terminos_preferidos": [
+      "antecedente bibliográfico (A)"
+    ],
+    "terminos_no_usados": []
+  }
+]
